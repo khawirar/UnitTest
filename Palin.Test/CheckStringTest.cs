@@ -16,11 +16,17 @@ namespace Palin.Test
 
             //act metoda musi zwracac wartosc
 
-            var result = instance.letsCheck("Able was I ere I saw Elba");
-
+            var result1 = instance.letsCheck("Able was I ere I saw Elba");
+            var result2 = instance.letsCheck("    ");
+            var result3 = instance.letsCheck("");
+            var result4 = instance.letsCheck("Ala ma kota");
             // assert
 
-            Assert.AreEqual("ablEwasIereIsawelbA", result);
+            Assert.AreEqual(true, result1);
+            Assert.AreEqual(false, result2);
+            Assert.AreEqual(false, result3);
+            Assert.AreEqual(false, result4);
+
 
         }
 

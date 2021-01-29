@@ -4644,11 +4644,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Kacper\\source\\repos\\Palin.Test\\Palin.Test.csproj",
+      "projectUniqueName": "C:\\Users\\Kacper\\Desktop\\Git\\UnitTest\\Palin.Test\\Palin.Test.csproj",
       "projectName": "Palin.Test",
-      "projectPath": "C:\\Users\\Kacper\\source\\repos\\Palin.Test\\Palin.Test.csproj",
+      "projectPath": "C:\\Users\\Kacper\\Desktop\\Git\\UnitTest\\Palin.Test\\Palin.Test.csproj",
       "packagesPath": "C:\\Users\\Kacper\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Kacper\\source\\repos\\Palin.Test\\obj\\",
+      "outputPath": "C:\\Users\\Kacper\\Desktop\\Git\\UnitTest\\Palin.Test\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Kacper\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -4665,8 +4665,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\Kacper\\source\\repos\\Palin\\Palin.csproj": {
-              "projectPath": "C:\\Users\\Kacper\\source\\repos\\Palin\\Palin.csproj"
+            "C:\\Users\\Kacper\\Desktop\\Git\\UnitTest\\Palin\\Palin.csproj": {
+              "projectPath": "C:\\Users\\Kacper\\Desktop\\Git\\UnitTest\\Palin\\Palin.csproj"
             }
           }
         }

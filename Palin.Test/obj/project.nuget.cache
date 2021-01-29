@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "C+0TUgElQ5JXfu9UpmDWEs6nhrsKTz27Zj5+bo9n9oPu8MY0As/c3jqYUcxK4DZ/BPt0goNNVlxDBBG9pymCJA==",
+  "dgSpecHash": "lFpMMwMOCmCQA6H+DiU4HiU4Lq1mJw9LpHv90zFomB8Msyjy1DObE6/jW3j6si8dziHBHRZDGlj6RdG7OFqmmA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Kacper\\source\\repos\\Palin.Test\\Palin.Test.csproj",
+  "projectFilePath": "C:\\Users\\Kacper\\Desktop\\Git\\UnitTest\\Palin.Test\\Palin.Test.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Kacper\\.nuget\\packages\\microsoft.codecoverage\\16.5.0\\microsoft.codecoverage.16.5.0.nupkg.sha512",
     "C:\\Users\\Kacper\\.nuget\\packages\\microsoft.csharp\\4.0.1\\microsoft.csharp.4.0.1.nupkg.sha512",

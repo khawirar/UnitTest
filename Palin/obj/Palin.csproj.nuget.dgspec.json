@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Kacper\\source\\repos\\Palin\\Palin.csproj": {}
+    "C:\\Users\\Kacper\\Desktop\\Git\\UnitTest\\Palin\\Palin.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Kacper\\source\\repos\\Palin\\Palin.csproj": {
+    "C:\\Users\\Kacper\\Desktop\\Git\\UnitTest\\Palin\\Palin.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Kacper\\source\\repos\\Palin\\Palin.csproj",
+        "projectUniqueName": "C:\\Users\\Kacper\\Desktop\\Git\\UnitTest\\Palin\\Palin.csproj",
         "projectName": "Palin",
-        "projectPath": "C:\\Users\\Kacper\\source\\repos\\Palin\\Palin.csproj",
+        "projectPath": "C:\\Users\\Kacper\\Desktop\\Git\\UnitTest\\Palin\\Palin.csproj",
         "packagesPath": "C:\\Users\\Kacper\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Kacper\\source\\repos\\Palin\\obj\\",
+        "outputPath": "C:\\Users\\Kacper\\Desktop\\Git\\UnitTest\\Palin\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Kacper\\AppData\\Roaming\\NuGet\\NuGet.Config",
