@@ -10,8 +10,10 @@ namespace Palin
 
         public Boolean letsCheck(string s)
         {
-            string strim = String.Concat(s.Where(c => !Char.IsWhiteSpace(c)));
+            //string strim = String.Concat(s.Where(c => !Char.IsWhiteSpace(c)));  usuwa białe znaki
 
+            string strim = new String(s.Where(Char.IsLetter).ToArray()); // Tylko litery
+           
             if (strim.Length != 0)
             {
                 char[] odwroc = strim.ToCharArray();
