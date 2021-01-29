@@ -1,0 +1,13 @@
+C:\Users\Kacper\source\repos\Palin\bin\Debug\netcoreapp3.1\Palin.exe
+C:\Users\Kacper\source\repos\Palin\bin\Debug\netcoreapp3.1\Palin.deps.json
+C:\Users\Kacper\source\repos\Palin\bin\Debug\netcoreapp3.1\Palin.runtimeconfig.json
+C:\Users\Kacper\source\repos\Palin\bin\Debug\netcoreapp3.1\Palin.runtimeconfig.dev.json
+C:\Users\Kacper\source\repos\Palin\bin\Debug\netcoreapp3.1\Palin.dll
+C:\Users\Kacper\source\repos\Palin\bin\Debug\netcoreapp3.1\Palin.pdb
+C:\Users\Kacper\source\repos\Palin\obj\Debug\netcoreapp3.1\Palin.csprojAssemblyReference.cache
+C:\Users\Kacper\source\repos\Palin\obj\Debug\netcoreapp3.1\Palin.AssemblyInfoInputs.cache
+C:\Users\Kacper\source\repos\Palin\obj\Debug\netcoreapp3.1\Palin.AssemblyInfo.cs
+C:\Users\Kacper\source\repos\Palin\obj\Debug\netcoreapp3.1\Palin.csproj.CoreCompileInputs.cache
+C:\Users\Kacper\source\repos\Palin\obj\Debug\netcoreapp3.1\Palin.dll
+C:\Users\Kacper\source\repos\Palin\obj\Debug\netcoreapp3.1\Palin.pdb
+C:\Users\Kacper\source\repos\Palin\obj\Debug\netcoreapp3.1\Palin.genruntimeconfig.cache
